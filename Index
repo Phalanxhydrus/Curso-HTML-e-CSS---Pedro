@@ -1,0 +1,67 @@
+Anotação 1:
+P= parágrafo de texto, br=quebra de linha
+class=elemento e id=identificador
+<html>
+
+
+    <head>
+    
+        <title>Reviews do Pedrin.com</title>
+    
+    </head>
+
+<body>
+<p>exemplo de texto. <br>segundo exemplo</p>
+<p class="Exemplo" id="Principal">exemplo de texto</p>
+<h1 id="Review">Review</h1>
+<p> O PlayStation 5 (PS5), novo videogame da Sony, chega às lojas de alguns países do mundo nesta quarta-feira (11). Embora só venha para o Brasil no dia 19 de novembro, o TechTudo pôde testar todas as funções e desempenho do console, e conta as opiniões sobre visual, funcionamento geral, controle, sistema e custo-benefício. O review traz ainda as principais melhorias em relação ao PS4, como o recurso para otimizar o sistema de resfriamento e evitar os barulhos que o antecessor fazia.
+
+    Vale a pena comprar o PS5 em 2020? Confira as primeiras impressões
+    PS5: sete perguntas e respostas sobre venda e preço do console no Brasil
+    Confira a seguir as impressões finais sobre o novo aparelho, que será vendido no país pelo preço de R$ 4.699 na versão padrão (ou R$ 4.199, no modelo sem entrada para discos). Lembrando que, para os testes, a Sony enviou ao TechTudo o PS5 na versão com entrada para blu-ray.
+    O PlayStation 5 (PS5), novo videogame da Sony, chega às lojas de alguns países do mundo nesta quarta-feira (11). Embora só venha para o Brasil no dia 19 de novembro, o TechTudo pôde testar todas as funções e desempenho do console, e conta as opiniões sobre visual, funcionamento geral, controle, sistema e custo-benefício. O review traz ainda as principais melhorias em relação ao PS4, como o recurso para otimizar o sistema de resfriamento e evitar os barulhos que o antecessor fazia.
+
+       <h1>Design</h1>
+    Vale a pena comprar o PS5 em 2020? Confira as primeiras impressões
+    PS5: sete perguntas e respostas sobre venda e preço do console no Brasil
+    Confira a seguir as impressões finais sobre o novo aparelho, que será vendido no país pelo preço de R$ 4.699 na versão padrão (ou R$ 4.199, no modelo sem entrada para discos). Lembrando que, para os testes, a Sony enviou ao TechTudo o PS5 na versão com entrada para blu-ray.</p>
+
+
+Modelos para títulos/cabeçalhos
+<h1>Texto Um</h1>
+<h2>Texto Dois</h2>
+<h3>Texto Três</h3>
+<h4>Texto Quatro</h4>
+<h5>Texto Cinco</h5>
+<h6>Texto Seis</h6>
+
+Anotação 3: Enfase em um texto, acrescentar "em" e "strong" para deixar em negritgo, exemplo: <em>Quero um <strong>PlayStation 5</strong></em>
+
+<img src="Screenshot_2.png" alt="print guarda roupa"> <br>
+
+<br>Anotação 4: para subir de nível em uma pasta, utilizar "../", se quiser subir mais níveis, utilizar novamente "../", exemplo:
+<img src="../Web/Screenshot_2.png"><br><br><br><br><br>
+
+<p>Modelos disponíveis em mercado</p>
+<ul>
+     <li> Com leitor de mídia física </li>
+     <li> Sem leitor de mídia física</li>
+
+
+</ul>
+
+<H1> Selecione qual console você quer ganhar: </H1>
+
+<h2>
+
+    <a href="../Páginas/PS5.html">PS5</a><br><br>
+    
+    <a href="#Review">Veja um breve review do PS5</a> <br><br>
+
+
+        <a href="../Páginas/Xbox.html">Xbox Series X</a></h2>
+
+    </body>
+
+        </html>
+
